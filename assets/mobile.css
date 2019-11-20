@@ -1,0 +1,71 @@
+@media screen and (max-width: 1024px) {
+    
+    header {
+        width: 100%;
+    }
+
+    p {
+        width: 80%;
+    }
+
+    #profile {
+        position: relative;
+        bottom: 805px;
+    }
+
+    #abText {
+        width: 25%;
+    }
+
+    #ws {
+        width: 35%;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    header {
+        width: 100%;
+    }
+
+    #abText {
+        width: 32%;
+    }
+
+    p {
+        width: 100%;
+    }
+
+    #profile {
+        display: none;
+    }
+
+    #ws {
+        width: 45%;
+    }
+
+    #links {
+        height: 75px;
+    }
+
+    #utwo {
+        position: relative;
+        left: 50px;
+        bottom: 43px;
+    }
+
+    #uthree {
+        position: relative;
+        left: 140px;
+        bottom: 85px;
+    }
+
+    #ufour {
+        position: relative;
+        left: 330px;
+        bottom: 125px;
+    }
+
+
+
+}
