@@ -81,3 +81,57 @@
     }
 
 }
+
+@media screen and (max-width: 411px) {
+
+    .title {
+        font-size: 40px;
+    }
+
+}
+
+@media screen and (max-width: 360px) {
+
+    header {
+        max-width: 100%;
+    }
+
+    .title {
+        font-size: 40px;
+    }
+
+}
+@media screen and (max-width: 375px) {
+
+    header {
+        width: 130%;
+    }
+
+    #links {
+        width: 135%;
+    }
+
+    .title {
+        font-size: 40px;
+    }
+
+    p {
+        width: 135%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+
+    header {
+        width: 130%;
+    }
+
+    .title {
+        font-size: 40px;
+    }
+
+    #links {
+        width: 130%;
+    }
+
+}
