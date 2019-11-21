@@ -50,22 +50,34 @@
 
     #utwo {
         position: relative;
-        left: 50px;
-        bottom: 43px;
+        left: 60px;
+        bottom: 40px;
     }
 
     #uthree {
         position: relative;
-        left: 140px;
-        bottom: 85px;
+        left: 135px;
+        bottom: 80px;
     }
 
     #ufour {
         position: relative;
-        left: 330px;
-        bottom: 125px;
+        left: 321px;
+        bottom: 120px;
     }
 
 
+
+}
+
+@media screen and (max-width: 414px) {
+
+    header {
+        width: 100%;
+    }
+
+    #abText {
+        width: 60%;
+    }
 
 }
