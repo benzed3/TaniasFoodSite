@@ -73,11 +73,23 @@
 @media screen and (max-width: 414px) {
 
     header {
-        width: 100%;
+        width: 120%;
+    }
+
+    .tile {
+        font-size: 40px;
+    }
+
+    #links {
+        width: 125%;
     }
 
     #abText {
         width: 60%;
+    }
+
+    #ws {
+        width: 80%;
     }
 
 }
@@ -127,11 +139,11 @@
     }
 
     .title {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     #links {
-        width: 130%;
+        width: 100%;
     }
 
 }
