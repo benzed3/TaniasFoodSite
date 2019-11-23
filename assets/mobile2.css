@@ -1,0 +1,150 @@
+@media screen and (max-width: 1024px) {
+
+    p {
+        width: 80%;
+    }
+
+    #weekly {
+        width: 40%;
+    }
+
+    #shrimp {
+        position: relative;
+        bottom: 173px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    header {
+        width: 100%;
+    }
+
+    #abText {
+        width: 32%;
+    }
+
+    p {
+        width: 100%;
+    }
+
+    #shrimp {
+        display: none;
+    }
+
+    #ws {
+        width: 45%;
+    }
+
+    #links {
+        height: 75px;
+    }
+
+    #utwo {
+        position: relative;
+        left: 60px;
+        bottom: 40px;
+    }
+
+    #uthree {
+        position: relative;
+        left: 135px;
+        bottom: 80px;
+    }
+
+    #ufour {
+        position: relative;
+        left: 321px;
+        bottom: 120px;
+    }
+
+}
+
+@media screen and (max-width: 414px) {
+
+    header {
+        width: 120%;
+    }
+
+    .tile {
+        font-size: 40px;
+    }
+
+    #links {
+        width: 125%;
+    }
+
+    #abText {
+        width: 60%;
+    }
+
+    #ws {
+        width: 80%;
+    }
+
+}
+
+@media screen and (max-width: 411px) {
+
+    .title {
+        font-size: 30px;
+    }
+    
+    header {
+        width: 80%;
+    }
+
+    #links {
+        width: 80%;
+    }
+
+}
+
+@media screen and (max-width: 360px) {
+
+    header {
+        max-width: 120%;
+    }
+
+    .title {
+        font-size: 40px;
+    }
+
+    #links {
+        width: 130%;
+    }
+
+}
+@media screen and (max-width: 375px) {
+
+    header {
+        width: 130%;
+    }
+
+    #links {
+        width: 135%;
+    }
+
+    .title {
+        font-size: 40px;
+    }
+
+    p {
+        width: 135%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+
+    header {
+        width: 130%;
+    }
+
+    .title {
+        font-size: 30px;
+    }
+
+    #links {
+        width: 100%;
+    }
+
+}
