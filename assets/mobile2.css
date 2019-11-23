@@ -86,15 +86,23 @@
 @media screen and (max-width: 411px) {
 
     .title {
-        font-size: 30px;
+        font-size: 40px;
     }
     
     header {
-        width: 80%;
+        width: 120%;
     }
 
     #links {
-        width: 80%;
+        width: 140%;
+    }
+
+    p {
+        width: 130%;
+    }
+
+    #weekly {
+        width: 72%;
     }
 
 }
@@ -110,10 +118,15 @@
     }
 
     #links {
-        width: 130%;
+        width: 140%;
+    }
+
+    #weekly {
+        width: 72%;
     }
 
 }
+
 @media screen and (max-width: 375px) {
 
     header {
@@ -136,15 +149,19 @@
 @media screen and (max-width: 320px) {
 
     header {
-        width: 130%;
+        width: 135%;
     }
 
     .title {
-        font-size: 30px;
+        font-size: 40px;
     }
 
     #links {
-        width: 100%;
+        width: 160%;
+    }
+
+    #weekly {
+        width: 80%;
     }
 
 }
