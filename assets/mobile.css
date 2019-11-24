@@ -37,7 +37,8 @@
     }
 
     #profile {
-        display: none;
+        width: 30%;
+        height: 30%;
     }
 
     #ws {
@@ -73,7 +74,7 @@
 @media screen and (max-width: 414px) {
 
     header {
-        width: 120%;
+        width: 125%;
     }
 
     .tile {
@@ -92,6 +93,17 @@
         width: 80%;
     }
 
+    p {
+        width: 160%;
+        position: relative;
+    }
+
+    #profile {
+        position: relative;
+        bottom: 1110px;
+        left: 115px;
+    }
+
 }
 
 @media screen and (max-width: 411px) {
@@ -101,13 +113,42 @@
     }
     
     header {
-        width: 80%;
+        width: 110%;
     }
 
     #links {
-        width: 80%;
+        width: 150%;
     }
 
+}
+
+@media screen and (max-width: 375px) {
+
+    header {
+        width: 130%;
+    }
+
+    #links {
+        width: 135%;
+    }
+
+    .title {
+        font-size: 40px;
+    }
+
+    p {
+        width: 165%;
+    }
+
+    #profile {
+
+        width: 40%;
+        height: 40%;
+        position: relative;
+        bottom: 1190px;
+        left: 150px;
+
+    }
 }
 
 @media screen and (max-width: 360px) {
@@ -125,24 +166,6 @@
     }
 
 }
-@media screen and (max-width: 375px) {
-
-    header {
-        width: 130%;
-    }
-
-    #links {
-        width: 135%;
-    }
-
-    .title {
-        font-size: 40px;
-    }
-
-    p {
-        width: 135%;
-    }
-}
 
 @media screen and (max-width: 320px) {
 
@@ -155,7 +178,21 @@
     }
 
     #links {
-        width: 100%;
+        width: 160%;
+    }
+
+    #abText {
+        width: 75%;
+    }
+
+    p {
+        width: 180%;
+    }
+
+    #profile {
+        position: relative;
+        bottom: 1190px;
+        left: 180px;
     }
 
 }
