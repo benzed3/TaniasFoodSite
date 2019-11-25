@@ -28,7 +28,11 @@
     }
 
     #shrimp {
-        display: none;
+        width: 30%;
+        height: 30%;
+        position: relative;
+        bottom: 220px;
+        left: 10px;
     }
 
     #ws {
@@ -73,12 +77,18 @@
         width: 125%;
     }
 
-    #abText {
-        width: 60%;
+    #weekly {
+        width: 75%;
     }
 
-    #ws {
-        width: 80%;
+    p {
+        width: 125%;
+    }
+
+    #shrimp {
+        position: relative;
+        bottom: 350px;
+        left: 90px;
     }
 
 }
@@ -90,7 +100,7 @@
     }
     
     header {
-        width: 120%;
+        width: 125%;
     }
 
     #links {
@@ -98,13 +108,44 @@
     }
 
     p {
-        width: 130%;
+        width: 140%;
     }
 
     #weekly {
         width: 72%;
     }
 
+    #shrimp {
+        position: relative;
+        bottom: 320px;
+        left: 150px;
+    }
+
+}
+
+@media screen and (max-width: 375px) {
+
+    header {
+        width: 130%;
+    }
+
+    #links {
+        width: 135%;
+    }
+
+    .title {
+        font-size: 40px;
+    }
+
+    p {
+        width: 145%;
+    }
+
+    #shrimp {
+        position: relative;
+        bottom: 350px;
+        left: 135px;
+    }
 }
 
 @media screen and (max-width: 360px) {
@@ -127,29 +168,10 @@
 
 }
 
-@media screen and (max-width: 375px) {
-
-    header {
-        width: 130%;
-    }
-
-    #links {
-        width: 135%;
-    }
-
-    .title {
-        font-size: 40px;
-    }
-
-    p {
-        width: 135%;
-    }
-}
-
 @media screen and (max-width: 320px) {
 
     header {
-        width: 135%;
+        width: 140%;
     }
 
     .title {
@@ -162,6 +184,14 @@
 
     #weekly {
         width: 80%;
+    }
+
+    #shrimp {
+        width: 60%;
+        height: 60%;
+        position: relative;
+        bottom: 350px;
+        left: 205px;
     }
 
 }
