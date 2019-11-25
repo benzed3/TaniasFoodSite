@@ -1,0 +1,124 @@
+@media screen and (max-width: 1024px) {
+
+    p {
+        width: 100%;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    header {
+        width: 100%;
+    }
+
+    #links {
+        height: 75px;
+    }
+
+    #utwo {
+        position: relative;
+        left: 60px;
+        bottom: 40px;
+    }
+
+    #uthree {
+        position: relative;
+        left: 135px;
+        bottom: 80px;
+    }
+
+    #ufour {
+        position: relative;
+        left: 321px;
+        bottom: 120px;
+    }
+
+}
+
+@media screen and (max-width: 414px) {
+
+    header {
+        width: 130%;
+    }
+
+    .title {
+        font-size: 45px;
+    }
+
+    #links {
+        width: 185%;
+    }
+
+}
+
+@media screen and (max-width: 411px) {
+
+    .title {
+        font-size: 45px;
+    }
+    
+    header {
+        width: 135%;
+    }
+
+    #links {
+        width: 160%;
+    }
+
+    p {
+        width: 155%;
+    }
+
+    #things {
+        width: 78%;
+    }
+
+}
+
+@media screen and (max-width: 375px) {
+
+    header {
+        width: 160%;
+    }
+
+    #links {
+        width: 175%;
+    }
+
+    .title {
+        font-size: 45px;
+    }
+
+}
+
+@media screen and (max-width: 360px) {
+
+    header {
+        max-width: 150%;
+    }
+
+    .title {
+        font-size: 45px;
+    }
+
+    #links {
+        width: 180%;
+    }
+
+}
+
+@media screen and (max-width: 320px) {
+
+    header {
+        width: 220%;
+    }
+
+    .title {
+        font-size: 50px;
+    }
+
+    #links {
+        width: 210%;
+    }
+
+}
