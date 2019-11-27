@@ -5,19 +5,20 @@
     }
 
     p {
-        width: 80%;
+        width: 100%;
     }
 
     #profile {
-        
+        width: 260%;
+        height: 260%;
+        position: relative;
+        bottom: -190px;
+        left: -240px;
     }
 
     #abText {
-        width: 25%;
-    }
-
-    #ws {
-        width: 35%;
+        width: 30%;
+        padding: 5px 5px 5px 12px;
     }
 
 }
@@ -35,51 +36,53 @@
 
     #utwo {
         position: relative;
-        left: 60px;
-        bottom: 40px;
+        left: 150px;
+        bottom: 39px;
     }
 
     #uthree {
         position: relative;
-        left: 135px;
-        bottom: 80px;
+        left: 315px;
+        bottom: 78px;
     }
 
     #ufour {
         position: relative;
-        left: 321px;
-        bottom: 120px;
+        left: 600px;
+        bottom: 117px;
     }
 
-
+    #profile {
+        height: 25%;
+        width: 25%;
+        transform: rotate(90deg);
+        position: relative;
+        bottom: 970px;
+        left: 560px;
+    }
 
 }
 
 @media screen and (max-width: 414px) {
 
     header {
-        width: 125%;
+        width: 150%;
     }
 
-    .tile {
+    .title {
         font-size: 40px;
     }
 
     #links {
-        width: 125%;
+        width: 160%;
     }
 
     #abText {
         width: 60%;
     }
 
-    #ws {
-        width: 80%;
-    }
-
     p {
-        width: 160%;
-        position: relative;
+        
     }
 
     #profile {
