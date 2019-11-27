@@ -34,14 +34,20 @@ body {
     font-size: 1.2em;
 }
 
+.nav-item {
+    border-style: double;
+    border: 5px 5px 5px 5px;
+    border-color: gray;
+}
+
 
 #abText {
     font-size: 35px;
-    width: 15%;
+    width: 20%;
     border-style: double;
     border-width: 1px;
-    padding-left: 8px;
-    border-top-right-radius: 5px;
+    padding: 5px 5px 5px 12px;
+    border-top-right-radius: 6px;
     margin-bottom: 0;
     border-color: gray;
     background: pink;
@@ -59,26 +65,13 @@ p {
     box-shadow: 5px 5px;
 }
 
-#ws {
-    font-size: 35px;
-    width: 25%;
-    border-style: double;
-    border-width: 1px;
-    padding-left: 8px;
-    border-top-right-radius: 5px;
-    margin-bottom: 0;
-    border-color: gray;
-    background: pink;
-    margin-left: 15px;
-}
-
 #profile {
-    height: 350px;
-    width: 500px;
-    float: right;
-    position: relative;
-    bottom: 463px;
+    height: 200%;
+    width: 200%;
     transform: rotate(90deg);
+    position: relative;
+    bottom: -190px;
+    left: -300px;
 }
 
 #shrimp {
