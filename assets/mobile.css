@@ -129,13 +129,31 @@
         width: 120%;
     }
 
+    #utwo {
+        position: relative;
+        left: 150px;
+        bottom: 39px;
+    }
+
+    #uthree {
+        position: relative;
+        left: 315px;
+        bottom: 78px;
+    }
+
+    #ufour {
+        position: relative;
+        left: 600px;
+        bottom: 117px;
+    }
+
     #profile {
 
         width: 40%;
         height: 40%;
         position: relative;
-        bottom: 1190px;
-        left: 150px;
+        bottom: 1860px;
+        left: 230px;
 
     }
 
