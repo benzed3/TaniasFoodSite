@@ -66,15 +66,15 @@
 @media screen and (max-width: 414px) {
 
     header {
-        width: 150%;
+        width: 160%;
     }
 
     .title {
-        font-size: 40px;
+        font-size: 45px;
     }
 
     #links {
-        width: 160%;
+        width: 170%;
     }
 
     #abText {
@@ -82,13 +82,15 @@
     }
 
     p {
-        
+        width: 180%;
     }
 
     #profile {
         position: relative;
-        bottom: 1110px;
-        left: 115px;
+        bottom: 1000px;
+        left: 515px;
+        width: 40%;
+        height: 40%;
     }
 
 }
