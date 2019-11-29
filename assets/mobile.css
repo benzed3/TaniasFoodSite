@@ -113,6 +113,7 @@
 
 @media screen and (max-width: 375px) {
 
+
     header {
         width: 100%;
     }
@@ -131,13 +132,13 @@
 
     #utwo {
         position: relative;
-        left: 150px;
+        left: 80px;
         bottom: 39px;
     }
 
     #uthree {
         position: relative;
-        left: 315px;
+        left: 175px;
         bottom: 78px;
     }
 
