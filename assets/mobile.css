@@ -114,19 +114,19 @@
 @media screen and (max-width: 375px) {
 
     header {
-        width: 130%;
+        width: 100%;
     }
 
     #links {
-        width: 135%;
+        width: 100%;
     }
 
     .title {
-        font-size: 40px;
+        font-size: 35px;
     }
 
     p {
-        width: 165%;
+        width: 120%;
     }
 
     #profile {
@@ -137,6 +137,10 @@
         bottom: 1190px;
         left: 150px;
 
+    }
+
+    #abText {
+        width: 70%;
     }
 }
 
