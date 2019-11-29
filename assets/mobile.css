@@ -210,6 +210,35 @@
         width: 130%;
     }
 
+    #utwo {
+        position: relative;
+        left: 80px;
+        bottom: 39px;
+    }
+
+    #uthree {
+        position: relative;
+        left: 175px;
+        bottom: 78px;
+    }
+
+    #ufour {
+        position: relative;
+        left: 600px;
+        bottom: 117px;
+    }
+
+    #profile {
+
+        width: 40%;
+        height: 40%;
+        transform: rotate(none);
+        position: relative;
+        bottom: 1860px;
+        left: 230px;
+
+    }
+
 }
 
 @media screen and (max-width: 320px) {
