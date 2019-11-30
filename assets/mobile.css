@@ -65,11 +65,11 @@
 @media screen and (max-width: 414px) {
 
     header {
-        width: 160%;
+        width: 100%;
     }
 
     .title {
-        font-size: 45px;
+        font-size: 40px;
     }
 
     #links {
@@ -81,15 +81,33 @@
     }
 
     p {
-        width: 180%;
+        width: 100%;
     }
 
     #profile {
         position: relative;
-        bottom: 1000px;
-        left: 515px;
-        width: 40%;
-        height: 40%;
+        bottom: 2075px;
+        left: 315px;
+        width: 20%;
+        height: 20%;
+    }
+
+    #utwo {
+        position: relative;
+        left: 80px;
+        bottom: 39px;
+    }
+
+    #uthree {
+        position: relative;
+        left: 175px;
+        bottom: 78px;
+    }
+
+    #ufour {
+        position: relative;
+        left: 600px;
+        bottom: 117px;
     }
 
 }
