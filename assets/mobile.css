@@ -55,7 +55,6 @@
     #profile {
         height: 25%;
         width: 25%;
-        transform: rotate(90deg);
         position: relative;
         bottom: 970px;
         left: 560px;
@@ -184,7 +183,6 @@
 
         width: 40%;
         height: 40%;
-        transform: rotate(90deg);
         position: relative;
         bottom: 1860px;
         left: 230px;
@@ -232,7 +230,6 @@
 
         width: 40%;
         height: 40%;
-        transform: rotate(none);
         position: relative;
         bottom: 1860px;
         left: 230px;
@@ -267,7 +264,6 @@
 
         width: 40%;
         height: 40%;
-        transform: rotate(none);
         position: relative;
         bottom: 1860px;
         left: 230px;
