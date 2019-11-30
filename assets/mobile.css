@@ -184,7 +184,7 @@
 
         width: 40%;
         height: 40%;
-        transform: rotate(none);
+        transform: rotate(90deg);
         position: relative;
         bottom: 1860px;
         left: 230px;
@@ -260,13 +260,18 @@
     }
 
     p {
-        width: 180%;
+        width: 130%;
     }
 
     #profile {
+
+        width: 40%;
+        height: 40%;
+        transform: rotate(none);
         position: relative;
-        bottom: 1190px;
-        left: 180px;
+        bottom: 1860px;
+        left: 230px;
+
     }
 
 }
