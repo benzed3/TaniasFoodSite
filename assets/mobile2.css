@@ -9,8 +9,11 @@
     }
 
     #shrimp {
+        height: 70%;
+        width: 100%;
         position: relative;
-        bottom: 173px;
+        bottom: -95px;
+        left: -150px;
     }
 }
 
