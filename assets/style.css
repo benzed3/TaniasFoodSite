@@ -68,11 +68,12 @@ p {
 }
 
 #shrimp {
-    height: 350px;
-    width: 500px;
+    height: 12%;
+    width: 12%;
     float: right;
     position: relative;
-    bottom: 88px;
+    bottom: 155px;
+    left: -150px;
     transform: rotate(90deg);
 }
 
