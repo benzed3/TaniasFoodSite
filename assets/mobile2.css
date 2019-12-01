@@ -138,8 +138,12 @@
         font-size: 40px;
     }
 
+    #weekly {
+        width: 115%;
+    }
+
     p {
-        width: 145%;
+        width: 125%;
     }
 
     #shrimp {
