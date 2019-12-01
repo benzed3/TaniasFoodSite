@@ -101,7 +101,7 @@
     }
     
     header {
-        width: 125%;
+        width: 100%;
     }
 
     #links {
@@ -109,11 +109,11 @@
     }
 
     p {
-        width: 140%;
+        width: 125%;
     }
 
     #weekly {
-        width: 72%;
+        width: 110%;
     }
 
     #shrimp {
