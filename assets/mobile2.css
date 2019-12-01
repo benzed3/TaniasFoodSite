@@ -27,11 +27,11 @@
     }
 
     #shrimp {
+        height: 75%;
         width: 30%;
-        height: 30%;
         position: relative;
-        bottom: 220px;
-        left: 10px;
+        bottom: 200px;
+        left: 530px;
     }
 
     #weekly {
