@@ -108,28 +108,7 @@ p {
 }
 
 #vid1Text {
-    width: 300px;
-}
-
-#vid2Text{
-    width: 300px;
-    position: relative;
-    left: 305px;
-    bottom: 101px;
-}
-
-#vid2Text #shrimpSaladInfo {
-    visibility: hidden;
-    background: blue;
-    color: white;
-    z-index: 1;
-    border-radius: 5px;
+    width: 35%;
     text-align: center;
-    position: absolute;
 }
-
-#vid2Text:hover #shrimpSaladInfo {
-    visibility: visible;
-}
-
 
