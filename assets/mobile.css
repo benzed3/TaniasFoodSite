@@ -193,6 +193,40 @@
 
 }
 
+@media screen and (max-width: 823px) and (max-height: 411px) {
+
+    #links {
+        height: 75px;
+    }
+
+    #utwo {
+        position: relative;
+        left: 130px;
+        bottom: 40px;
+    }
+
+    #uthree {
+        position: relative;
+        left: 300px;
+        bottom: 80px;
+    }
+
+    #ufour {
+        position: relative;
+        left: 600px;
+        bottom: 120px;
+    }
+
+    #profile {
+        position: relative;
+        bottom: 480px;
+        left: 690px;
+        width: 15%;
+        height: 15%;
+    }
+
+}
+
 @media screen and (max-width: 375px) {
 
 
