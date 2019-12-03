@@ -79,7 +79,7 @@
 
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 414px) and (max-height: 736px) {
 
     header {
         width: 100%;
@@ -103,10 +103,10 @@
 
     #profile {
         position: relative;
-        bottom: 2075px;
-        left: 315px;
-        width: 20%;
-        height: 20%;
+        bottom: 1375px;
+        left: 300px;
+        width: 25%;
+        height: 25%;
     }
 
     #utwo {
