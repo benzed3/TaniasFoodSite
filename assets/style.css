@@ -112,14 +112,13 @@ p {
     margin-top: 10px;
 }
 
-#vid1Text {
-    width: 35%;
-    text-align: center;
+#box1 {
+    width: 40%;
+    float: right;
 }
 
-#vid2Text {
-    width: 35%;
-    text-align: center;
+#box2 {
+    width: 40%;
 }
 
 .fa-instagram {
