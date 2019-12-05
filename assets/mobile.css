@@ -397,7 +397,13 @@
     #ufour {
         position: relative;
         left: 304px;
-        bottom: 119px;
+        bottom: 120px;
+    }
+
+    #insta {
+        position: relative;
+        left: 163px;
+        bottom: 126px;
     }
 
     #profile {
@@ -452,6 +458,12 @@
         bottom: 117px;
     }
 
+    #insta {
+        left: 449px;
+        bottom: 148px;
+        position: relative;
+    }
+
     #profile {
         width: 20%;
         height: 20%;
@@ -482,20 +494,20 @@
 
     #utwo {
         position: relative;
-        left: 80px;
-        bottom: 39px;
+        left: 51px;
+        bottom: 40px;
     }
 
     #uthree {
         position: relative;
-        left: 175px;
-        bottom: 78px;
+        left: 114px;
+        bottom: 80px;
     }
 
     #ufour {
         position: relative;
-        left: 600px;
-        bottom: 117px;
+        left: 290px;
+        bottom: 120px;
     }
 
     #profile {
@@ -582,6 +594,12 @@
         position: relative;
         bottom: 1480px;
         left: 230px;
+    }
+
+    #ufour {
+        position: relative;
+        left: 90px;
+        bottom: 94px;
     }
 
 }
