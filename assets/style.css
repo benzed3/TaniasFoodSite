@@ -20,6 +20,12 @@ body {
     background-color: none;
 }
 
+#insta {
+    left: 20px;
+    bottom: -9px;
+    position: relative
+}
+
 #one {
     width: 67%;
     margin-left: 15px;
