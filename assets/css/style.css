@@ -59,10 +59,13 @@ p {
     box-shadow: 5px 5px;
 }
 
+img {
+    image-orientation: from-image;
+}
+
 #profile {
     height: 200%;
     width: 200%;
-    transform: rotate(90deg);
     position: relative;
     bottom: -190px;
     left: -300px;
