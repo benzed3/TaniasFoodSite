@@ -276,6 +276,18 @@
 
 }
 
+@media screen and (max-width: 375px) and (max-height: 667px) {
+
+    header {
+        width: 100%;
+    }
+
+    #links {
+        width: 100%;
+    }
+
+}
+
 @media screen and (max-width: 667px) and (max-height: 375px) {
 
     #weekly {
