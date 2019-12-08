@@ -1,11 +1,11 @@
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) and (max-height: 1366px) {
 
     p {
         width: 100%;
     }
 
     #weekly {
-        width: 40%;
+        width: 50%;
     }
 
     #shrimp {
@@ -17,7 +17,16 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1366px) and (max-height: 1024px) {
+
+    #weekly {
+        width: 36%;
+        padding: 10px;
+    }
+
+}
+
+@media screen and (max-width: 768px) and (max-height: 1024px) {
     header {
         width: 100%;
     }
@@ -27,7 +36,7 @@
     }
 
     #shrimp {
-        height: 75%;
+        height: 100%;
         width: 30%;
         position: relative;
         bottom: 200px;
@@ -63,13 +72,26 @@
 
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 1024px) and (max-height: 768px) {
+
+    #weekly {
+        width: 50%;
+    }
+
+    #shrimp {
+        height: 70%;
+        width: 135%;
+    }
+
+}
+
+@media screen and (max-width: 414px) and (max-height: 736px) {
 
     header {
         width: 100%;
     }
 
-    .tile {
+    .title {
         font-size: 40px;
     }
 
@@ -78,23 +100,41 @@
     }
 
     #weekly {
-        width: 110%;
+        width: 105%;
         padding: 8px;
     }
 
     p {
-        width: 125%;
+        width: 130%;
     }
 
     #shrimp {
         position: relative;
-        bottom: 450px;
-        left: 300px;
+        bottom: 443px;
+        left: 320px;
+        height: 120%;
+        width: 20%;
     }
 
 }
 
-@media screen and (max-width: 411px) {
+@media screen and (max-width: 736px) and (max-height: 414px) {
+
+    #weekly {
+        width: 57%;
+    }
+
+    #shrimp {
+        position: relative;
+        bottom: 258px;
+        left: 555px;
+        height: 120%;
+        width: 20%;
+    }
+
+}
+
+@media screen and (max-width: 411px) and (max-height: 823px) {
 
     .title {
         font-size: 40px;
@@ -105,7 +145,7 @@
     }
 
     #links {
-        width: 140%;
+        width: 100%;
     }
 
     p {
@@ -113,18 +153,74 @@
     }
 
     #weekly {
-        width: 110%;
+        width: 105%;
     }
 
     #shrimp {
         position: relative;
-        bottom: 450px;
+        bottom: 442px;
         left: 300px;
+        height: 105%;
+        width: 25%;
     }
 
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 823px) and (max-height: 411px) {
+    
+    #links {
+        height: 75px;
+    }
+
+    #utwo {
+        position: relative;
+        left: 60px;
+        bottom: 40px;
+    }
+
+    #uthree {
+        position: relative;
+        left: 135px;
+        bottom: 80px;
+    }
+
+    #ufour {
+        position: relative;
+        left: 321px;
+        bottom: 120px;
+    }
+
+    #weekly {
+        width: 51%;
+    }
+
+    #shrimp {
+        position: relative;
+        bottom: 250px;
+        left: 605px;
+        height: 140%;
+        width: 22%;
+    }
+
+}
+
+@media screen and (max-width: 731px) and (max-height: 411px) {
+
+    #weekly {
+        width: 58%;
+    }
+
+    #shrimp {
+        position: relative;
+        bottom: 250px;
+        left: 540px;
+        height: 140%;
+        width: 22%;
+    }
+
+}
+
+@media screen and (max-width: 375px) and (max-height: 812px) {
 
     header {
         width: 100%;
@@ -137,6 +233,25 @@
     .title {
         font-size: 40px;
     }
+
+    #utwo {
+        position: relative;
+        left: 55px;
+        bottom: 40px;
+    }
+
+    #uthree {
+        position: relative;
+        left: 120px;
+        bottom: 80px;
+    }
+
+    #ufour {
+        position: relative;
+        left: 300px;
+        bottom: 120px;
+    }
+
 
     #weekly {
         width: 115%;
@@ -148,12 +263,36 @@
 
     #shrimp {
         position: relative;
-        bottom: 350px;
-        left: 135px;
+        bottom: 502px;
+        left: 280px;
     }
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 812px) and (max-height: 375px) {
+
+    #weekly {
+        width: 52%;
+    }
+
+}
+
+@media screen and (max-width: 667px) and (max-height: 375px) {
+
+    #weekly {
+        width: 63%;
+    }
+
+    #shrimp {
+        position: relative;
+        bottom: 289px;
+        left: 490px;
+        height: 140%;
+        width: 22%;
+    }
+
+}
+
+@media screen and (max-width: 360px) and (max-height: 640px) {
 
     header {
         max-width: 120%;
@@ -164,19 +303,53 @@
     }
 
     #links {
-        width: 140%;
+        width: 100%;
+    }
+
+    #utwo {
+        position: relative;
+        left: 50px;
+        bottom: 40px;
+    }
+
+    #uthree {
+        position: relative;
+        left: 110px;
+        bottom: 80px;
+    }
+
+    #ufour {
+        position: relative;
+        left: 285px;
+        bottom: 120px;
     }
 
     #weekly {
-        width: 72%;
+        width: 120%;
     }
 
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 640px) and (max-height: 360px) {
+
+    #weekly {
+        width: 66%;
+    }
+
+    #shrimp {
+        position: relative;
+        bottom: 289px;
+        left: 468px;
+        height: 140%;
+        width: 22%;
+    }
+
+}
+
+@media screen and (max-width: 320px) and (max-height: 568px) {
 
     header {
-        width: 140%;
+        width: 100%;
     }
 
     .title {
@@ -184,19 +357,41 @@
     }
 
     #links {
-        width: 160%;
+        width: 100%;
+    }
+
+    #ufour {
+        position: relative;
+        left: 85px;
+        bottom: 95px;
     }
 
     #weekly {
-        width: 80%;
+        width: 100%;
     }
 
     #shrimp {
-        width: 60%;
-        height: 60%;
+        width: 30%;
+        height: 115%;
         position: relative;
-        bottom: 350px;
-        left: 205px;
+        bottom: 654px;
+        left: 220px;
+    }
+
+}
+
+@media screen and (max-width: 568px) and (max-height: 320px) {
+
+    #weekly {
+        width: 75%;
+    }
+
+    #shrimp {
+        position: relative;
+        bottom: 340px;
+        left: 418px;
+        height: 140%;
+        width: 22%;
     }
 
 }
