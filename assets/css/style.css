@@ -72,11 +72,11 @@ img {
 }
 
 #shrimp {
-    height: 90%;
-    width: 90%;
+    height: 75%;
+    width: 190%;
     position: relative;
     bottom: -55px;
-    left: -180px;
+    left: -295px;
     transform: rotate(90deg);
 }
 
@@ -123,5 +123,16 @@ img {
 .fa-instagram {
     background: #125688;
     color: white;
+}
+
+#list {
+    padding-left: 15px;
+    border-radius: 0 5px 5px 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    padding: 30px 35px 30px 35px;
+    margin-left: 15px;
+    box-shadow: 5px 5px;
 }
 
