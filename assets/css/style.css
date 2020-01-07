@@ -23,7 +23,7 @@ body {
 #insta {
     left: 20px;
     bottom: -3px;
-    position: relative
+    position: relative;
 }
 
 #one {
@@ -123,6 +123,10 @@ img {
 .fa-instagram {
     background: #125688;
     color: white;
+}
+
+.nav-link {
+    font-family: 'Titillium Web', sans-serif;
 }
 
 #list {
