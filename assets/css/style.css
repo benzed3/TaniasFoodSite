@@ -1,14 +1,16 @@
-body {
-    background: rgb(212, 165, 165);
-    width: 100%;
-}
-
 .title {
     font-family: 'Lobster', cursive;
     font-size: 50px;
-    padding: 15px 15px 25px 15px;
+    padding: 15px 0px 0px 0px;
     text-align: center;
     text-shadow: 2px 2px gray;
+}
+
+.title2 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    text-shadow: 1px 1px gray;
+    padding-bottom: 15px;
 }
 
 #links {
