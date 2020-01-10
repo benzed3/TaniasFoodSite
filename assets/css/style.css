@@ -16,6 +16,10 @@
 #links {
     background-color: pink;
     width: 100%;
+    border-style: solid;
+    border-color: gray;
+    border-bottom-width: 5px;
+    border-top-width: 5px;
 }
 
 .bg-light {
