@@ -160,15 +160,6 @@
         bottom: 117px;
     }
 
-
-    #profile {
-        position: relative;
-        bottom: 1185px;
-        left: 320px;
-        width: 20%;
-        height: 20%;
-    }
-
 }
 
 @media screen and (max-width: 823px) and (max-height: 411px) {
@@ -193,14 +184,6 @@
         position: relative;
         left: 600px;
         bottom: 120px;
-    }
-
-    #profile {
-        position: relative;
-        bottom: 480px;
-        left: 690px;
-        width: 15%;
-        height: 15%;
     }
 
 }
@@ -246,23 +229,11 @@
         bottom: 117px;
     }
 
-
-    #profile {
-        position: relative;
-        bottom: 1185px;
-        left: 320px;
-        width: 20%;
-        height: 20%;
-    }
 }
 
 @media screen and (max-width: 731px) and (max-height: 411px) {
 
-    #profile {
-        position: relative;
-        left: 618px;
-        bottom: 564px;
-    }
+
 
 }
 
@@ -303,16 +274,6 @@
         bottom: 117px;
     }
 
-    #profile {
-
-        width: 20%;
-        height: 20%;
-        position: relative;
-        bottom: 1275px;
-        left: 290px;
-
-    }
-
     #abText {
         width: 70%;
     }
@@ -320,13 +281,6 @@
 
 @media screen and (max-width: 812px) and (max-height: 375px) {
 
-    #profile {
-        width: 15%;
-        height: 15%;
-        position: relative;
-        bottom: 575px;
-        left: 685px;
-    }
 
 }
 
@@ -342,10 +296,6 @@
 
     .title {
         font-size: 30px;
-    }
-
-    p {
-        width: 120%;
     }
 
     #utwo {
@@ -370,16 +320,6 @@
         position: relative;
         left: 163px;
         bottom: 126px;
-    }
-
-    #profile {
-
-        width: 20%;
-        height: 20%;
-        position: relative;
-        bottom: 1275px;
-        left: 290px;
-
     }
 
     #abText {
@@ -428,14 +368,6 @@
         left: 449px;
         bottom: 148px;
         position: relative;
-    }
-
-    #profile {
-        width: 20%;
-        height: 20%;
-        position: relative;
-        bottom: 675px;
-        left: 535px;
     }
 
     #abText {
