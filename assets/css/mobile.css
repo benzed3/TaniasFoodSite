@@ -5,16 +5,8 @@
     }
 
     p {
-        width: 100%;
+        width: 130%;
         line-height: 1em;
-    }
-
-    #profile {
-        width: 260%;
-        height: 260%;
-        position: relative;
-        bottom: -190px;
-        left: -240px;
     }
 
     #abText {
@@ -60,11 +52,7 @@
     }
 
     #profile {
-        height: 25%;
-        width: 25%;
-        position: relative;
-        bottom: 670px;
-        left: 560px;
+        width: 50%;
     }
 
 }
@@ -73,14 +61,6 @@
 
     p {
         width: 125%;
-    }
-
-    #profile {
-        height: 175%;
-        width: 175%;
-        position: relative;
-        bottom: -170px;
-        left: -110px;
     }
 
 }
